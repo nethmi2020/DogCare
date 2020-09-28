@@ -1,0 +1,44 @@
+.topbar{
+    background-color:#660066;
+    color: white;
+    padding:10px;
+}
+.fa {
+    color: white;
+    padding: 5px;
+}
+.topbar i{
+    margin: 5px;
+}
+.secondbar{
+    background-color: white;
+}
+h2{
+    color: tomato;
+    
+}
+.ctext ul li{
+    list-style-type: none;
+    float: left;
+    
+    margin: 15px;
+}
+.ctext ul li a{
+   
+    margin: 15px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.ctext ul li a:hover{
+    text-decoration: none;
+}
+.card-img-top:hover{
+    opacity: 0.8;
+}
+ .warning{
+    border-radius:30px;
+    padding:15px;
+    font-size:20px;
+    
+}
