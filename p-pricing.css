@@ -48,3 +48,17 @@ a{
 a:hover{
     text-decoration: none;
 }
+.midletab  tr th{
+    padding: 40px;
+    font-size: 20px;
+    margin: 20px;
+    border-bottom: 0.5px solid lightblue;
+}
+
+.midletab   tr td{
+    padding: 20px;
+    font-size: 15px;
+   margin-left: 10px;
+    border-bottom:  0.5px solid lightblue;
+    text-align: center;
+}
